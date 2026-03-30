@@ -1,0 +1,12 @@
+# Python and C++ exclusions
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.out
+*.exe
+*.log
+*.egg-info/
+*.vscode/
+*.idea/
+.DS_Store
